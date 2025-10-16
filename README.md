@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mathwithebru-financial/mathwithebru-financial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
