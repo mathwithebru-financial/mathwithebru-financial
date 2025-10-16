@@ -7,6 +7,34 @@ Here are some ideas to get you started:
 
 # 👋 Merhaba, ben Ebru
 
+<!-- 🎮 ARCHI-ARCADE: Oyunlu Mimari Galeri -->
+<h2>🎮 Archi-Arcade</h2>
+<p><em>WASD yok ama tıklayınca geziliyor 🙂 Her kare tıklanabilir.</em></p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#pavilion">
+        <img src="assets/parametric_pavilion.png" width="220" alt="Parametrik Pavyon">
+      </a>
+      <br><sub>Parametrik Pavyon</sub>
+    </td>
+    <td align="center">
+      <a href="#overwater">
+        <img src="assets/overwater_villa_isometric.png" width="220" alt="Su Üstü Villa (İzometrik)">
+      </a>
+      <br><sub>Su Üstü Villa</sub>
+    </td>
+    <td align="center">
+      <a href="#origami">
+        <img src="assets/origami_canopy_night.png" width="220" alt="Origami Canopy (Gece)">
+      </a>
+      <br><sub>Origami Canopy</sub>
+    </td>
+  </tr>
+</table>
+
+
 🎓 Masterlı Veri Analisti  
 💡 Uygulamalı Matematik | Transformer Modelleri | Finansal Tahmin  
 📍 Bodrum, Türkiye  
