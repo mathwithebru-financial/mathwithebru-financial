@@ -4,6 +4,30 @@
 
 <!-- 🎞️ Animated Visual Gallery -->
 <p align="center">
+  <img src="assets/mathematical_flow.gif" width="220" alt="Mathematical Flow"><br>
+  <sub>Interconnected ideas — where mathematics becomes motion.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/financial_architecture.gif" width="220" alt="Financial Architecture"><br>
+  <sub>Financial patterns shaped by geometry and intelligence.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/origami_pavilion.gif" width="220" alt="Origami Pavilion"><br>
+  <sub>Folded logic illuminated by natural light and structure.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/Origami Pavilion .gif" width="220" alt="Origami Pavilion in Nature"><br>
+  <sub>The harmony of form, light, and mathematical balance.</sub>
+</p>
+
+---
+
+
+<!-- 🎞️ Animated Visual Gallery -->
+<p align="center">
   <img src="assets/mathematical_flow.gif" width="260" alt="Mathematical Flow"><br>
   <sub>Interconnected ideas — where mathematics becomes motion.</sub>
 </p>
