@@ -2,7 +2,7 @@
 
 <h1 align="center">🌿 Math, Light & Architecture</h1>
 
-<!-- 🎞️ Animated Visual Gallery -->
+<!-- 🎞️ Animated Visual Gallery-->
 <p align="center">
   <img src="assets/mathematical_flow.gif" width="220" alt="Mathematical Flow"><br>
   <sub>Interconnected ideas — where mathematics becomes motion.</sub>
