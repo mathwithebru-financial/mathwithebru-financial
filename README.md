@@ -89,8 +89,5 @@ Merging art and machine learning — reinterpreting **visual style** through CNN
     </td>
   </tr>
 </table>
-<!-- Hide contribution graph visually -->
-<p align="center">
-  <img src="https://fakeimg.pl/1x1/" width="1" height="1" alt="">
-</p>
+
 
