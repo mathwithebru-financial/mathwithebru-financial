@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <a href="#pavilion">
         <img src="assets/parametric_pavilion.png" width="220" alt="Parametrik Pavyon">
       </a>
-      <br><sub>Parametrik Pavyon</sub>
+      <br><sub>Parametric Pavilion</sub>
     </td>
     <td align="center">
       <a href="#overwater">
