@@ -7,9 +7,14 @@ Here are some ideas to get you started:
 
 # 👋 Merhaba, ben Ebru
 
+<p align="center">
+  <img src="assets/origami_pavilion.png" width="820" alt="Origami Pavilion">
+  <br><sub>Origami Pavilion</sub>
+</p>
+
+
 <!-- 🎮 ARCHI-ARCADE: Oyunlu Mimari Galeri -->
 <h2>🎮 Archi-Arcade</h2>
-<p><em>WASD yok ama tıklayınca geziliyor 🙂 Her kare tıklanabilir.</em></p>
 
 <table>
   <tr>
