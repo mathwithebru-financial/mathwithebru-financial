@@ -1,6 +1,6 @@
 <!-- 🌌 Ebru's Living Portfolio -->
 
-<h1 align="center">🌿 Math, Light & Architecture</h1>
+<h1 align="center">🌿 Math, Light & Financial Architecture</h1> 
 
 <!-- 🌌 Animated Visual Gallery (correct paths) -->
 <p align="center">
