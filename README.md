@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 - Çoklu Görevli Transformer tabanlı finansal risk & getiri tahmini  
 - Zaman serisi verilerinde volatilite analizi  
 - SHAP ile model açıklanabilirliği  
-- CNN tabanlı sanat eseri stil transferi (yüksek lisans ödevi)  
-- Graf teorisinde merkezilik kavramları (özvektör & aracılık merkezliği)
+- CNN tabanlı sanat eseri stil transferi 
+- Graf teorisinde merkezilik kavramları 
 
 ---
 
