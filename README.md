@@ -22,7 +22,7 @@
 ### 👋 Hi, I'm Ebru  
 🎓 MSc in Applied Mathematics  
 💡 Data Science · Financial AI · Architectural Geometry  
-📍 Based in Bodrum, Turkey  
+📍 Based in Mugla, Turkey  
 
 ---
 
