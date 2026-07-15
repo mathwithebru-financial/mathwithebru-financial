@@ -4,10 +4,10 @@
 
 <!-- 🌌 Animated Visual Gallery (correct paths) -->
 <p align="center">
-  <img src="mathematical_flow.gif" width="220" alt="Mathematical Flow">
+  <img src="Origami Pavilion .gif" width="220" alt="Origami Pavilion in Nature">
   <img src="financial architecture.gif" width="220" alt="Financial Architecture">
   <img src="origami_pavilion.gif" width="220" alt="Origami Pavilion">
-  <img src="Origami Pavilion .gif" width="220" alt="Origami Pavilion in Nature">
+  
 </p>
 
 <p align="center">
